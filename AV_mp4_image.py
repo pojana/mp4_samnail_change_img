@@ -4,9 +4,9 @@ import os
 import re
 import pathlib
 
-mp4_path = "H:\\いろいろ\\av\\松本いちか\\add\\"
+mp4_path = ""
 
-img_path = "H:\\いろいろ\\av\\_Fanza_sampleImgs\\松本いちか(まつもといちか)\\lib\\"
+img_path = ""
 
 
 def get_mp4_list():
